@@ -115,7 +115,7 @@ const htmlQuestions = [
     {
         question: "Which HTML tag is used to define a hyperlink?",
         options: ["<link>", "<href>", "<a>", "<hyperlink>"],
-        correct: 3,
+        correct: 2,
         explanation: "The <h1> element represents the highest level heading.",
     },
     {
