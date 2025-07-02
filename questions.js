@@ -113,8 +113,8 @@ const htmlQuestions = [
         explanation: "The 'style' attribute is used to add inline CSS styles to HTML elements.",
     },
     {
-        question: "What is the correct HTML element for the largest heading?",
-        options: ["<head>", "<h6>", "<heading>", "<h1>"],
+        question: "Which HTML tag is used to define a hyperlink?",
+        options: ["<link>", "<href>", "<a>", "<hyperlink>"],
         correct: 3,
         explanation: "The <h1> element represents the highest level heading.",
     },
